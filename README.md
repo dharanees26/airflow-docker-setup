@@ -68,6 +68,52 @@ This repository provides a complete setup for running **Apache Airflow** with **
 └── README.md           # Project documentation
 
 
+![Screenshot 2025-01-12 094653](https://github.com/user-attachments/assets/631a7ffa-82ae-4236-b934-9cae588f445e)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
