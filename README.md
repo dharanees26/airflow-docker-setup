@@ -52,25 +52,13 @@ This repository provides a complete setup for running **Apache Airflow** with **
 | Airflow Webserver | Airflow's web-based interface     | [http://localhost:8080](http://localhost:8080) |
 | phpMyAdmin        | MySQL database management         | [http://localhost:8081](http://localhost:8081) |
 
----
 
-## Folder Structure
-
-```plaintext
-├── dags/               # Airflow DAGs
-├── scripts/            # Python scripts for data ingestion and database operations
-├── config/             # Configuration files (e.g., db_config.json)
-├── sql/                # SQL files for database setup
-├── logs/               # Airflow logs
-├── Dockerfile          # Dockerfile for Airflow image
-├── docker-compose.yml  # Docker Compose configuration
-├── requirements.txt    # Python dependencies
-└── README.md           # Project documentation
 
 
 ![Screenshot 2025-01-12 094653](https://github.com/user-attachments/assets/631a7ffa-82ae-4236-b934-9cae588f445e)
 
 
+![image](https://github.com/user-attachments/assets/7b818a71-3d84-4ee9-8196-8f99da37ee2a)
 
 
 
@@ -78,40 +66,7 @@ This repository provides a complete setup for running **Apache Airflow** with **
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/ac88bb53-919f-41c9-911a-b750a84b01d9)
 
 
 
